@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"ARM Assembly",
+		"C Improved",
+		"C++ Snippets",
+		"CodeIgniter 2 ModelController",
+		"DoxyDoxygen",
+		"Package Control",
+		"Text Pastry",
+		"VHDL",
+		"Vintageous"
+	]
+}
