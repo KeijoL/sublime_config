@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+TEST_ASSERT_EQUAL(${1:expected}, ${2:actual}); $0
+]]></content>
+<tabTrigger>test</tabTrigger>
+<description>Unity Test Assert Equal</description>
+<scope>source.c, meta.function.c, meta.block.c</scope>
+</snippet>
